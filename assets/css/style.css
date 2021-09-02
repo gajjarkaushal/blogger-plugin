@@ -1,0 +1,107 @@
+.wpblog_main {
+    max-width: 80% !important;
+}
+.wpblog_main .comment-meta .avatar {
+    left: -2rem;
+    width: 32px;
+    height: 32px;
+}
+.wpblog_wrap {
+    border: 1px solid #ccc;
+    margin-top: 10px;
+    padding: 20px;
+}
+span.date_time_post {
+    font-size: 12px;
+}
+.wpblog_heading {
+    display: flex;
+    margin: 10px 0px 10px 0px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+}
+.wpblog_heading h5 {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0;
+    line-height: 0.8;
+}
+.wp_user_name_time{
+    margin: 0px 20px 0px 21px;
+}
+.wpblog_comments {
+    border-top: 1px solid #ccc;
+}
+.wpblog_main .wpblog_wrap ol.commentlist {
+    list-style: none;
+    margin: 10px 0px 0px 0px !important;
+}
+
+
+.wpblog_main span.says {
+    display: none;
+}
+
+.wpblog_main .comment-metadata time {
+    display: none;
+}
+
+.wpblog_main footer.comment-meta {
+    display: flex;
+}
+
+.wpblog_main .comment-author.vcard {
+    display: flex;
+}
+
+.wpblog_main .comment-author.vcard b.fn {
+    margin-left: 20px;
+}
+
+.wpblog_main .comment-content {
+    margin-left: 50px;
+}
+
+.wpblog_main span.edit-link {display: block;margin-left: 100px;}
+
+.wpblog_main .reply {
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+.wpblog_main .comment-author.vcard {
+    width: 80%;
+}
+.wpblog_main .comment-content p {
+    background: #cccc;
+    border-radius: 4px;
+    padding: 10px;
+    color: #000000;
+}
+
+.wpblog_main ul.children {
+    list-style: none;
+}
+.wpblog_main div#respond {
+    padding: 0px;
+}
+
+.wpblog_main form#commentform {
+    display: flex;
+}
+
+.wpblog_main p.comment-form-comment {
+    width: 100%;
+    padding-right: 20px;
+}
+
+.wpblog_main p.form-submit {
+    display: flex;
+    align-items: center;
+}
+
+.wpblog_main form#commentform textarea {
+    height: 40px;
+}
+.wpblog_main .submit_blog {
+    margin-top: 10px;
+}

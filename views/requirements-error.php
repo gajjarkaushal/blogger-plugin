@@ -1,0 +1,1 @@
+<p>Please check wordpress version or PHP version</p>
